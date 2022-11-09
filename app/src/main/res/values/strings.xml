@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">open_phone</string>
+    <string name="hintText">Phone number</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_browser">Start Browser</string>
+    <string name="start_phone">Start Phone</string>
+</resources>
